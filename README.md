@@ -35,7 +35,7 @@ Follow the instructions below to set up the project locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dikshatnarware/facial-analysis-app.git
+   [git clone https://github.com/dikshatnarware/facial-analysis-app.git](https://github.com/dikshantnarware/facial-analysis-app.git)
    cd facial-analysis-app/
    ```
 
